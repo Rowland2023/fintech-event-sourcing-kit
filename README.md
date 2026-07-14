@@ -1,4 +1,4 @@
-# Fintech Event Sourcing Kit
+# Fintech-Event-Kit
 
 Production-ready base classes for audit-safe payment systems. Used in escrow, ledgers, split payments.
 
